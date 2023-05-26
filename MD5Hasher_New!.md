@@ -1,3 +1,4 @@
+<center>中文版 ／ <a href=MD5Hasher_NewEN.md>英文版</a></center>
 ## 說明
 此工具是基於Microsoft VisualBasic.NET所開發，允許使用者利用內建功能檢查檔案完整性，並且盡量縮減主程式體積，讓使用者有全新的安全性體驗！
 ## 特點
@@ -12,4 +13,6 @@
 * 關於功能暫未推出
 ## 軟體資訊
 - 開發者：510208（a.k.a.國中生開發者）
-- 發行版：
+- 發行版：[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/510208/md5hashing-new?color=green&label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&logo=github&logoColor=green&style=for-the-badge)](https://https://github.com/510208/md5hashing-new)
+## 徽章列表
+![Languange](https://img.shields.io/badge/Languange-Chinese%20Traditional-Success?style=for-the-badge&logo=appveyor)[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/510208/md5hashing-new?color=green&label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&logo=github&logoColor=green&style=for-the-badge)](https://https://github.com/510208/md5hashing-new)![Maker](https://img.shields.io/badge/Developer-510208-Blue?style=for-the-badge&logo=appveyor)
