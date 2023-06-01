@@ -25,4 +25,4 @@
 
 ## 徽章列表
 
-![Languange](https://img.shields.io/badge/Languange-Chinese%20Traditional-Success?style=for-the-badge&logo=appveyor)[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/510208/md5hashing-new?color=green&label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&logo=github&logoColor=green&style=for-the-badge)](https://https://github.com/510208/md5hashing-new)![Maker](https://img.shields.io/badge/Developer-510208-Blue?style=for-the-badge&logo=appveyor)
+![Languange](https://img.shields.io/badge/Languange-Chinese%20Traditional-Success?style=for-the-badge&logo=appveyor)[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/510208/md5hashing-new?color=green&label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&logo=github&logoColor=green&style=for-the-badge)](https://https://github.com/510208/md5hashing-new)![Maker](https://img.shields.io/badge/Developer-510208-Blue?style=for-the-badge&logo=appveyor)![GitHub all releases](https://img.shields.io/github/downloads/510208/md5hashing-new/total?color=green&label=%E4%B8%8B%E8%BC%89%E6%95%B8&style=for-the-badge)
