@@ -69,5 +69,6 @@
             MsgBox("錯誤！" & vbCrLf & "你還未開啟新檔案做驗證", MsgBoxStyle.Critical)
             Me.Close()
         End If
+        Me.Icon = Form1.Icon
     End Sub
 End Class

@@ -4,6 +4,7 @@ Imports System.IO
 Imports System.Windows.Forms.Clipboard
 Imports System.Net
 Imports System.Text.RegularExpressions
+Imports System.Diagnostics
 
 Public Class Form1
     Public hashThings As New hashChecking
@@ -94,7 +95,9 @@ Public Class Form1
     End Sub
 
     Private Sub btnUpdate_Click(sender As Object, e As EventArgs) Handles btnUpdate.Click
-        Call updateChecker()
+        ' 開啟更新介面
+        ' 在這裡實現打開更新檔所在的介面的程式碼
+        frmUpdate.Show()
     End Sub
 
     Private Sub Form1_Resize(sender As Object, e As EventArgs) Handles Me.Resize
@@ -161,6 +164,10 @@ Public Class Form1
             frmCheck.sha512Code.Text = shaFITHash
             frmCheck.sha1Code.Text = shaIHash
         End If
+    End Sub
+
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        frmInfo.Show()
     End Sub
 End Class
 
