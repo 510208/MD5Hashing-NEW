@@ -333,3 +333,21 @@ hr {
   border-width: 1px;
   width: 60%;
 }
+
+::selection {
+  background: #60712F;
+  color: #fff;
+}
+
+::-moz-selection {
+  background: #60712F;
+  color: #fff;
+}
+
+img::selection {
+  background: transparent;
+}
+
+img::-moz-selection {
+  background: transparent;
+}
