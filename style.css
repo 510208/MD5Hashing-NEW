@@ -351,3 +351,5 @@ img::selection {
 img::-moz-selection {
   background: transparent;
 }
+
+/* Start https://www.cursors-4u.com */ * {cursor: url(https://ani.cursors-4u.net/games/gam-16/gam1570.cur), auto !important;} /* End https://www.cursors-4u.com */
